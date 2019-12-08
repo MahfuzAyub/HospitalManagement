@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalStore", "MedicalStore\MedicalStore.csproj", "{6FA34E46-A72C-42DB-B447-19B47E2F3EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA34E46-A72C-42DB-B447-19B47E2F3EBC}.Debug|x86.ActiveCfg = Debug|x86
+		{6FA34E46-A72C-42DB-B447-19B47E2F3EBC}.Debug|x86.Build.0 = Debug|x86
+		{6FA34E46-A72C-42DB-B447-19B47E2F3EBC}.Release|x86.ActiveCfg = Release|x86
+		{6FA34E46-A72C-42DB-B447-19B47E2F3EBC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4610C13-EA1C-4C3C-B06C-F893D04FD6E8}
+	EndGlobalSection
+EndGlobal
